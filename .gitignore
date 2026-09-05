@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables / API keys
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
