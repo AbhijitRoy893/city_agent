@@ -20,6 +20,8 @@ A tool-using AI agent built with **LangChain**, **Gemini**, and **Tavily**, wrap
   <sub>Live weather answer, with tool call shown transparently</sub>
 </p>
 
+---
+
 <p align="center">
   <img src="screenshots/home-screen.png" alt="CityPilot home screen" width="700"><br>
   <sub>Home screen</sub>
