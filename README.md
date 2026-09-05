@@ -15,18 +15,15 @@ A tool-using AI agent built with **LangChain**, **Gemini**, and **Tavily**, wrap
 
 ## 📸 Preview
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="screenshots/tool-activity.png" alt="CityPilot answering a weather query with tool activity shown">
-      <p align="center"><sub>Live weather answer, with tool call shown transparently</sub></p>
-    </td>
-    <td width="50%">
-      <img src="screenshots/home-screen.png" alt="CityPilot home screen">
-      <p align="center"><sub>Home screen</sub></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="screenshots/tool-activity.png" alt="CityPilot answering a weather query with tool activity shown" width="700"><br>
+  <sub>Live weather answer, with tool call shown transparently</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/home-screen.png" alt="CityPilot home screen" width="700"><br>
+  <sub>Home screen</sub>
+</p>
 
 ---
 
